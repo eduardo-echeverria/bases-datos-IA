@@ -1,0 +1,46 @@
+car	c	frecuencia
+{
+  "identity": 63,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Ingeniero en Sistemas de Informacion",
+    "nombre": "Ing en Sistemas de Informacion",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+}
+{
+  "identity": 43,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Java"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+}
+6
+{
+  "identity": 63,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Ingeniero en Sistemas de Informacion",
+    "nombre": "Ing en Sistemas de Informacion",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+}
+{
+  "identity": 44,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Analisis Funcional"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+}

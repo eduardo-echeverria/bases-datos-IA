@@ -1,0 +1,40 @@
+{
+    "identity": 79,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Martinelli",
+      "fechanac": "30/06/1968",
+      "nombre": "Analia",
+      "email": "analia.martinelli@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:79"
+  }
+  {
+    "identity": 1152921504606847055,
+    "start": 79,
+    "end": 17,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Empleado"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847055",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:79",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }
+  {
+    "identity": 17,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "IT",
+      "ubicacion": "Estados Unidos",
+      "id": "8",
+      "nombre": "IBM",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }

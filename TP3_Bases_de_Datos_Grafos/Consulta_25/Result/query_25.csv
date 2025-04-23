@@ -1,0 +1,8 @@
+╒══════════════════════════════════════════════════════════════════════╕
+│path                                                                  │
+╞══════════════════════════════════════════════════════════════════════╡
+│(:Persona {apellido: "Lupis",fechanac: "27/09/1980",nombre: "Jorge",em│
+│ail: "jlup@gmail.com",pais: "Argentina"})-[:CONOCE_A {motivo: "Estudio│
+│",fechad: "1994"}]->(:Persona {apellido: "Lopez",fechanac: "11/02/1970│
+│",nombre: "Mario",email: "mario.lopez@gmail.com",pais: "Argentina"})  │
+└──────────────────────────────────────────────────────────────────────┘

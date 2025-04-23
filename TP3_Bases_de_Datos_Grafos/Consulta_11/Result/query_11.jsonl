@@ -1,0 +1,14 @@
+{
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }

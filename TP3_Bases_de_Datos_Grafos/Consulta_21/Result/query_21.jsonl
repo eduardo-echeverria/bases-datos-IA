@@ -1,0 +1,11 @@
+node
+{
+  "identity": -8,
+  "labels": [
+    "ResumenEtiquetas"
+  ],
+  "properties": {
+    "label": "Carrera"
+  },
+  "elementId": "-8"
+}

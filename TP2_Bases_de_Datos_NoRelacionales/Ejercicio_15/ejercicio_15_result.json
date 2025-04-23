@@ -1,0 +1,28 @@
+[{
+  "maxTotalGastado": 1968,
+  "cliente": {
+    "nombre": "Martin",
+    "apellido": "Zavasi"
+  }
+},
+{
+  "maxTotalGastado": 1960,
+  "cliente": {
+    "nombre": "Juan Manuel",
+    "apellido": "Manoni"
+  }
+},
+{
+  "maxTotalGastado": 700,
+  "cliente": {
+    "nombre": "Soledad",
+    "apellido": "Lavagno"
+  }
+},
+{
+  "maxTotalGastado": 688,
+  "cliente": {
+    "nombre": "Marina",
+    "apellido": "Malinez"
+  }
+}]

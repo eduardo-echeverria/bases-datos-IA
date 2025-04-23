@@ -1,0 +1,66 @@
+╒══════════════════════════════════════════════════════════════════════╤═══════════════════════════════════════════════════════════════╤═══════════════╕
+│c                                                                     │data.conocimiento                                              │data.frecuencia│
+╞══════════════════════════════════════════════════════════════════════╪═══════════════════════════════════════════════════════════════╪═══════════════╡
+│(:Carrera {titulo: "Ingeniero en Sistemas de Informacion",nombre: "Ing│(:Conocimiento {nombre: "Java"})                               │6              │
+│ en Sistemas de Informacion",nivel: "Universitario"})                 │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Ingeniero en Sistemas de Informacion",nombre: "Ing│(:Conocimiento {nombre: "Analisis Funcional"})                 │6              │
+│ en Sistemas de Informacion",nivel: "Universitario"})                 │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Licenciado en Sistemas de Informacion",nombre: "Li│(:Conocimiento {nombre: "PHP"})                                │1              │
+│c en Sist de Inf",nivel: "Universitario"})                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Licenciado en Sistemas de Informacion",nombre: "Li│(:Conocimiento {nombre: "Java"})                               │1              │
+│c en Sist de Inf",nivel: "Universitario"})                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Licenciado en Sistemas de Informacion",nombre: "Li│(:Conocimiento {nombre: "Analisis Funcional"})                 │1              │
+│c en Sist de Inf",nivel: "Universitario"})                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Licenciado en Sistemas de Informacion",nombre: "Li│(:Conocimiento {nombre: "Gestion de proyectos"})               │1              │
+│c en Sist de Inf",nivel: "Universitario"})                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Licenciado en Sistemas de Informacion",nombre: "Li│(:Conocimiento {nombre: "C++"})                                │1              │
+│c en Sist de Inf",nivel: "Universitario"})                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Licenciado en Sistemas de Informacion",nombre: "Li│(:Conocimiento {nombre: "SQL"})                                │1              │
+│c en Sist de Inf",nivel: "Universitario"})                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Licenciado en Sistemas de Informacion",nombre: "Li│(:Conocimiento {nombre: "Evaluacion de proveedores"})          │1              │
+│c en Sist de Inf",nivel: "Universitario"})                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Abogado",nombre: "Derecho",nivel: "Universitario"}│(:Conocimiento {nombre: "Revision y elaboracion de contratos"})│2              │
+│)                                                                     │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Abogado",nombre: "Derecho",nivel: "Universitario"}│(:Conocimiento {nombre: "Creacion de sociedades"})             │2              │
+│)                                                                     │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Abogado",nombre: "Derecho",nivel: "Universitario"}│(:Conocimiento {nombre: "Contestacion de demandas"})           │2              │
+│)                                                                     │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Abogado",nombre: "Derecho",nivel: "Universitario"}│(:Conocimiento {nombre: "Gestion"})                            │2              │
+│)                                                                     │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Master en Business Administration",nombre: "MBA",n│(:Conocimiento {nombre: "Java"})                               │2              │
+│ivel: "Postgrado"})                                                   │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Master en Business Administration",nombre: "MBA",n│(:Conocimiento {nombre: "Analisis Funcional"})                 │2              │
+│ivel: "Postgrado"})                                                   │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Master en Business Administration",nombre: "MBA",n│(:Conocimiento {nombre: "Gestion de proyectos"})               │2              │
+│ivel: "Postgrado"})                                                   │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Master en Business Administration",nombre: "MBA",n│(:Conocimiento {nombre: "Revision y elaboracion de contratos"})│2              │
+│ivel: "Postgrado"})                                                   │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Master en Business Administration",nombre: "MBA",n│(:Conocimiento {nombre: "Evaluacion de proveedores"})          │2              │
+│ivel: "Postgrado"})                                                   │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Master en Business Administration",nombre: "MBA",n│(:Conocimiento {nombre: "Gestion de recursos"})                │2              │
+│ivel: "Postgrado"})                                                   │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Tecnico en Programacion",nombre: "Tec. En Programa│(:Conocimiento {nombre: "C++"})                                │1              │
+│cion",nivel: "Terciario"})                                            │                                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┼───────────────┤
+│(:Carrera {titulo: "Tecnico en Programacion",nombre: "Tec. En Programa│(:Conocimiento {nombre: "SQL"})                                │1              │
+│cion",nivel: "Terciario"})                                            │                                                               │               │
+└──────────────────────────────────────────────────────────────────────┴───────────────────────────────────────────────────────────────┴───────────────┘

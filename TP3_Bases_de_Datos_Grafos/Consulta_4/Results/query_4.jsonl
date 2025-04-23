@@ -1,0 +1,199 @@
+{
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 6917531226664337474,
+    "start": 25,
+    "end": 66,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/11/2001",
+      "fechad": "01/05/1997"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337474",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:66"
+  }
+  {
+    "identity": 66,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Tecnico en Comercializacion",
+      "nombre": "Comercializacion",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:66"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6919783026478022723,
+    "start": 8,
+    "end": 67,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2006",
+      "fechad": "01/04/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919783026478022723",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 67,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Master en Business Administration",
+      "nombre": "MBA",
+      "nivel": "Postgrado"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 6917531226664337475,
+    "start": 25,
+    "end": 67,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2005",
+      "fechad": "01/03/2002"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337475",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 67,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Master en Business Administration",
+      "nombre": "MBA",
+      "nivel": "Postgrado"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6922034826291707971,
+    "start": 29,
+    "end": 67,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2006",
+      "fechad": "01/04/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922034826291707971",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 67,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Master en Business Administration",
+      "nombre": "MBA",
+      "nivel": "Postgrado"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 27,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Garcia",
+      "fechanac": "23/01/1985",
+      "nombre": "Eduardo",
+      "email": "garcia@live.com.ar",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27"
+  }
+  {
+    "identity": 6917531226664337476,
+    "start": 27,
+    "end": 68,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "En curso",
+      "fechad": "01/04/2012"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337476",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68"
+  }
+  {
+    "identity": 68,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Tecnico en Programacion",
+      "nombre": "Tec. En Programacion",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68"
+  }

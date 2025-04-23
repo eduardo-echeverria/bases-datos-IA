@@ -1,0 +1,1088 @@
+path	ContactoSugerido	Empresa
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 1,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "DÌaz",
+      "fechanac": "10/12/1978",
+      "nombre": "AnalÌa",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1152921504606846998,
+        "start": 22,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846998",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      }
+    },
+    {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "relationship": {
+        "identity": 1152921504606846977,
+        "start": 1,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "LÌder de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846977",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "DÌaz",
+          "fechanac": "10/12/1978",
+          "nombre": "AnalÌa",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"AnalÌa DÌaz"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1152921504606846998,
+        "start": 22,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846998",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      }
+    },
+    {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "relationship": {
+        "identity": 1155173304420532226,
+        "start": 2,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Abogado Sr.",
+          "fechah": "01/11/2005",
+          "fechad": "01/08/2001"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532226",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Dominguez",
+          "fechanac": "31/10/1990",
+          "nombre": "Mariana",
+          "email": "mariana@yahoo.com",
+          "pais": "Chile"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"Mariana Dominguez"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1152921504606846998,
+        "start": 22,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846998",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      }
+    },
+    {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "relationship": {
+        "identity": 1161928703861587970,
+        "start": 2,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Abogado Sr.",
+          "fechah": "01/11/2005",
+          "fechad": "01/08/2001"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161928703861587970",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Dominguez",
+          "fechanac": "31/10/1990",
+          "nombre": "Mariana",
+          "email": "mariana@yahoo.com",
+          "pais": "Chile"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"Mariana Dominguez"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 4,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "LÛpez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1152921504606846998,
+        "start": 22,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846998",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      }
+    },
+    {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "relationship": {
+        "identity": 1157425104234217476,
+        "start": 4,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Gerente de Marketing",
+          "fechah": "01/03/2008",
+          "fechad": "01/04/2005"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217476",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "LÛpez",
+          "fechanac": "11/02/1970",
+          "nombre": "Mario",
+          "email": "mario.lopez@gmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"Mario LÛpez"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1152921504606846998,
+        "start": 22,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846998",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      }
+    },
+    {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "relationship": {
+        "identity": 1157425104234217495,
+        "start": 23,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Abogado Sr.",
+          "fechah": "01/11/2005",
+          "fechad": "01/08/2001"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217495",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Dominguez",
+          "fechanac": "31/10/1990",
+          "nombre": "Mariana",
+          "email": "mariana@yahoo.com",
+          "pais": "Chile"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"Mariana Dominguez"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1152921504606846998,
+        "start": 22,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846998",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      }
+    },
+    {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "TelefonÌa",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "relationship": {
+        "identity": 1161928703861587993,
+        "start": 25,
+        "end": 20,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Gerente de Marketing",
+          "fechah": "01/03/2008",
+          "fechad": "01/04/2005"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161928703861587993",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Lopez",
+          "fechanac": "11/02/1970",
+          "nombre": "Mario",
+          "email": "mario.lopez@gmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"Mario Lopez"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1155173304420532246,
+        "start": 22,
+        "end": 41,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532246",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "Telefonia",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      }
+    },
+    {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "Telefonia",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "relationship": {
+        "identity": 1164180503675273218,
+        "start": 2,
+        "end": 41,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Abogado Sr.",
+          "fechah": "01/11/2005",
+          "fechad": "01/08/2001"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164180503675273218",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Dominguez",
+          "fechanac": "31/10/1990",
+          "nombre": "Mariana",
+          "email": "mariana@yahoo.com",
+          "pais": "Chile"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"Mariana Dominguez"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1155173304420532246,
+        "start": 22,
+        "end": 41,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532246",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "Telefonia",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      }
+    },
+    {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "Telefonia",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "relationship": {
+        "identity": 1159676904047902743,
+        "start": 23,
+        "end": 41,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Abogado Sr.",
+          "fechah": "01/11/2005",
+          "fechad": "01/08/2001"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902743",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Dominguez",
+          "fechanac": "31/10/1990",
+          "nombre": "Mariana",
+          "email": "mariana@yahoo.com",
+          "pais": "Chile"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+      }
+    }
+  ],
+  "length": 2.0
+}
+"Mariana Dominguez"	"Claro"
+{
+  "start": {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  },
+  "end": {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  },
+  "segments": [
+    {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Diaz",
+          "fechanac": "10/12/1978",
+          "nombre": "Analia",
+          "email": "adiaz@hotmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+      },
+      "relationship": {
+        "identity": 1155173304420532246,
+        "start": 22,
+        "end": 41,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Lider de proyecto",
+          "fechad": "01/07/2011"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532246",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "Telefonia",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      }
+    },
+    {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Empresa"
+        ],
+        "properties": {
+          "rubro": "Telefonia",
+          "ubicacion": "Argentina",
+          "id": "11",
+          "nombre": "Claro",
+          "tamano": "Grande"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "relationship": {
+        "identity": 1164180503675273241,
+        "start": 25,
+        "end": 41,
+        "type": "TRABAJO",
+        "properties": {
+          "puesto": "Gerente de Marketing",
+          "fechah": "01/03/2008",
+          "fechad": "01/04/2005"
+        },
+        "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164180503675273241",
+        "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+        "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Persona"
+        ],
+        "properties": {
+          "apellido": "Lopez",
+          "fechanac": "11/02/1970",
+          "nombre": "Mario",
+          "email": "mario.lopez@gmail.com",
+          "pais": "Argentina"
+        },
+        "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+      }
+    }
+  ],
+  "length": 2.0
+}

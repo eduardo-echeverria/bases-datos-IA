@@ -1,0 +1,16 @@
+[{
+  "totalFacturado": 56700,
+  "region": "NEA"
+},
+{
+  "totalFacturado": 31572,
+  "region": "CABA"
+},
+{
+  "totalFacturado": 10320,
+  "region": "CENTRO"
+},
+{
+  "totalFacturado": 9800,
+  "region": "NOA"
+}]

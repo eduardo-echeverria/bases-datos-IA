@@ -1,0 +1,33 @@
+╒══════════════════════════════════════════════════════════════════════╕
+│p                                                                     │
+╞══════════════════════════════════════════════════════════════════════╡
+│(:Persona {apellido: "DÌaz",fechanac: "10/12/1978",nombre: "AnalÌa",em│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})                          │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Dominguez",fechanac: "31/10/1990",nombre: "Maria│
+│na",email: "mariana@yahoo.com",pais: "Chile"})                        │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Ferreira",fechanac: "07/04/1972",nombre: "Natali│
+│a",email: "nf@hotmail.com",pais: "Argentina"})                        │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Gonz·lez",fechanac: "09/11/1974",nombre: "Bibian│
+│a",email: "bibiana@live.com.ar",pais: "EspaÒa"})                      │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Mendez",fechanac: "28/02/1968",nombre: "VerÛnica│
+│",email: "veromendi@yahoo.com.ar",pais: "Argentina"})                 │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})                          │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Dominguez",fechanac: "31/10/1990",nombre: "Maria│
+│na",email: "mariana@yahoo.com",pais: "Chile"})                        │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Ferreira",fechanac: "07/04/1972",nombre: "Natali│
+│a",email: "nf@hotmail.com",pais: "Argentina"})                        │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Gonzalez",fechanac: "09/11/1974",nombre: "Bibian│
+│a",email: "bibiana@live.com.ar",pais: "España"})                      │
+├──────────────────────────────────────────────────────────────────────┤
+│(:Persona {apellido: "Mendez",fechanac: "28/02/1968",nombre: "Veronica│
+│",email: "veromendi@yahoo.com.ar",pais: "Argentina"})                 │
+└──────────────────────────────────────────────────────────────────────┘

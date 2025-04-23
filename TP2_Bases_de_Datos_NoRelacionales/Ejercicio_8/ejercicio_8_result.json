@@ -1,0 +1,30 @@
+[{
+  "totalAmount": 165,
+  "totalIncome": 2970,
+  "producto": " CORREA 12mm"
+},
+{
+  "totalAmount": 43,
+  "totalIncome": 21070,
+  "producto": "TALADRO 12mm"
+},
+{
+  "totalAmount": 112,
+  "totalIncome": 6720,
+  "producto": "TUERCA 2mm"
+},
+{
+  "totalAmount": 198,
+  "totalIncome": 26532,
+  "producto": "CORREA 10mm"
+},
+{
+  "totalAmount": 350,
+  "totalIncome": 31500,
+  "producto": "TUERCA 5mm"
+},
+{
+  "totalAmount": 28,
+  "totalIncome": 19600,
+  "producto": "SET HERRAMIENTAS"
+}]

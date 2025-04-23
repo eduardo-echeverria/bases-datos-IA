@@ -1,0 +1,24 @@
+{
+    "identity": 79,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Martinelli",
+      "fechanac": "31/05/1970",
+      "nombre": "Analia",
+      "email": "analia.martinelli@gmail.com",
+      "pais": "Irlanda"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:79"
+  }
+  {
+    "identity": 80,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Calculo"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:80"
+  }

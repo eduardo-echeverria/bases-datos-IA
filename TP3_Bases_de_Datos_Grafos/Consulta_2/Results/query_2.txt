@@ -1,0 +1,3 @@
+Nombre	Apellido	FechaDeNacimiento
+"Mariana"	"Dominguez"	"31/10/1990"
+"Mariana"	"Dominguez"	"31/10/1990"

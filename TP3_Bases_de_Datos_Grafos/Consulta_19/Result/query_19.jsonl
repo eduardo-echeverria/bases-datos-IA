@@ -1,0 +1,7208 @@
+{
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1152921504606846976,
+    "start": 0,
+    "end": 10,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechah": "01/05/2000",
+      "fechad": "01/02/1997"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846976",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 10,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "TelefÛnica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6919780827454767114,
+    "start": 0,
+    "end": 10,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechah": "01/05/2000",
+      "fechad": "01/02/1997"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919780827454767114",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 10,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "TelefÛnica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1155173304420532224,
+    "start": 0,
+    "end": 11,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Programador",
+      "fechah": "01/09/2008",
+      "fechad": "01/06/2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532224",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 11,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "ConsultorÌa",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917529027641081867,
+    "start": 0,
+    "end": 11,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Programador",
+      "fechah": "01/09/2008",
+      "fechad": "01/06/2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081867",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 11,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "ConsultorÌa",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1157425104234217472,
+    "start": 0,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechad": "01/10/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217472",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917529027641081874,
+    "start": 0,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechad": "01/10/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081874",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917529027641081887,
+    "start": 0,
+    "end": 31,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechah": "01/05/2000",
+      "fechad": "01/02/1997"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081887",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 31,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "Telefonica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917529027641081888,
+    "start": 0,
+    "end": 32,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Programador",
+      "fechah": "01/09/2008",
+      "fechad": "01/06/2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081888",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 32,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Consultoria",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1159676904047902720,
+    "start": 0,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechad": "01/10/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902720",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917530127152709674,
+    "start": 0,
+    "end": 42,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709674",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+  }
+  {
+    "identity": 42,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "PHP"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917530127152709675,
+    "start": 0,
+    "end": 43,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709675",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917530127152709676,
+    "start": 0,
+    "end": 44,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709676",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917530127152709682,
+    "start": 0,
+    "end": 50,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709682",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 50,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "C++"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917530127152709683,
+    "start": 0,
+    "end": 51,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709683",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 51,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "SQL"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 6917531226664337471,
+    "start": 0,
+    "end": 63,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2000",
+      "fechad": "01/03/1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337471",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 63,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Ingeniero en Sistemas de Informacion",
+      "nombre": "Ing en Sistemas de Informacion",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1161933101908099072,
+    "start": 0,
+    "end": 2,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Amistad",
+      "fechad": "1990"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161933101908099072",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1157429502280728576,
+    "start": 0,
+    "end": 8,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Estudio",
+      "fechad": "1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157429502280728576",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1152925902653358080,
+    "start": 0,
+    "end": 9,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Trabajo",
+      "fechad": "2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152925902653358080",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1164184901721784320,
+    "start": 0,
+    "end": 23,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Amistad",
+      "fechad": "1990"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164184901721784320",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1159681302094413824,
+    "start": 0,
+    "end": 29,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Estudio",
+      "fechad": "1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159681302094413824",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 0,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0"
+  }
+  {
+    "identity": 1155177702467043328,
+    "start": 0,
+    "end": 30,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Trabajo",
+      "fechad": "2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155177702467043328",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:0",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 1,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "DÌaz",
+      "fechanac": "10/12/1978",
+      "nombre": "AnalÌa",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1"
+  }
+  {
+    "identity": 1152921504606846977,
+    "start": 1,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "LÌder de proyecto",
+      "fechad": "01/07/2011"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846977",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1166432303488958466,
+    "start": 2,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1166432303488958466",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 6917529027641081870,
+    "start": 2,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor ·rea Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081870",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1152921504606846978,
+    "start": 2,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846978",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1157425104234217474,
+    "start": 2,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217474",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1155173304420532226,
+    "start": 2,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532226",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1161928703861587970,
+    "start": 2,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161928703861587970",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1168684103302643714,
+    "start": 2,
+    "end": 35,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1168684103302643714",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 35,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Aviacion",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1159676904047902722,
+    "start": 2,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902722",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1164180503675273218,
+    "start": 2,
+    "end": 41,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164180503675273218",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 41,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 6917530127152709678,
+    "start": 2,
+    "end": 46,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709678",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 46,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Revision y elaboracion de contratos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 6917530127152709679,
+    "start": 2,
+    "end": 47,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709679",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:47"
+  }
+  {
+    "identity": 47,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Creacion de sociedades"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:47"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 6917530127152709680,
+    "start": 2,
+    "end": 48,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709680",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:48"
+  }
+  {
+    "identity": 48,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Contestacion de demandas"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:48"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 6917530127152709681,
+    "start": 2,
+    "end": 49,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709681",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:49"
+  }
+  {
+    "identity": 49,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:49"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 6917531226664337473,
+    "start": 2,
+    "end": 65,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/1997",
+      "fechad": "01/04/1989"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337473",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+  }
+  {
+    "identity": 65,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Abogado",
+      "nombre": "Derecho",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6917529027641081869,
+    "start": 3,
+    "end": 13,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechad": "01/11/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081869",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:13"
+  }
+  {
+    "identity": 13,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Petrolera",
+      "ubicacion": "Estados Unidos",
+      "id": "4",
+      "nombre": "Chevron",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:13"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6919780827454767117,
+    "start": 3,
+    "end": 13,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechad": "01/11/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919780827454767117",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:13"
+  }
+  {
+    "identity": 13,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Petrolera",
+      "ubicacion": "Estados Unidos",
+      "id": "4",
+      "nombre": "Chevron",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:13"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 1155173304420532227,
+    "start": 3,
+    "end": 17,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechah": "01/10/2009",
+      "fechad": "01/06/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532227",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }
+  {
+    "identity": 17,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "IT",
+      "ubicacion": "Estados Unidos",
+      "id": "8",
+      "nombre": "IBM",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6917529027641081873,
+    "start": 3,
+    "end": 17,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechah": "01/10/2009",
+      "fechad": "01/06/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081873",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }
+  {
+    "identity": 17,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "IT",
+      "ubicacion": "Estados Unidos",
+      "id": "8",
+      "nombre": "IBM",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 1152921504606846979,
+    "start": 3,
+    "end": 19,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechah": "01/05/2005",
+      "fechad": "01/03/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846979",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 19,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 1157425104234217475,
+    "start": 3,
+    "end": 19,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechah": "01/05/2005",
+      "fechad": "01/03/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217475",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 19,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6917529027641081890,
+    "start": 3,
+    "end": 34,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechad": "01/11/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081890",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:34"
+  }
+  {
+    "identity": 34,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Petrolera",
+      "ubicacion": "Estados Unidos",
+      "id": "4",
+      "nombre": "Chevron",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:34"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6917529027641081894,
+    "start": 3,
+    "end": 38,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechah": "01/10/2009",
+      "fechad": "01/06/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081894",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:38"
+  }
+  {
+    "identity": 38,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "IT",
+      "ubicacion": "Estados Unidos",
+      "id": "8",
+      "nombre": "IBM",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:38"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 1159676904047902723,
+    "start": 3,
+    "end": 40,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechah": "01/05/2005",
+      "fechad": "01/03/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902723",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:40"
+  }
+  {
+    "identity": 40,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:40"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6924285526593765419,
+    "start": 3,
+    "end": 43,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6924285526593765419",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6924285526593765420,
+    "start": 3,
+    "end": 44,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6924285526593765420",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 6919781926966394925,
+    "start": 3,
+    "end": 45,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394925",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 45,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de proyectos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 3,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3"
+  }
+  {
+    "identity": 1152923703630102531,
+    "start": 3,
+    "end": 63,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "En curso",
+      "fechad": "01/03/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152923703630102531",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:3",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 63,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Ingeniero en Sistemas de Informacion",
+      "nombre": "Ing en Sistemas de Informacion",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 4,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "LÛpez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4"
+  }
+  {
+    "identity": 1155173304420532228,
+    "start": 4,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de Marketing",
+      "fechah": "01/03/2005",
+      "fechad": "01/12/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532228",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 4,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "LÛpez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4"
+  }
+  {
+    "identity": 1159676904047902724,
+    "start": 4,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Empresario",
+      "fechah": "01/10/2010",
+      "fechad": "01/04/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902724",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 4,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "LÛpez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4"
+  }
+  {
+    "identity": 1152921504606846980,
+    "start": 4,
+    "end": 19,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Marketing",
+      "fechah": "01/11/2001",
+      "fechad": "01/03/1998"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846980",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 19,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 4,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "LÛpez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4"
+  }
+  {
+    "identity": 1157425104234217476,
+    "start": 4,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de Marketing",
+      "fechah": "01/03/2008",
+      "fechad": "01/04/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217476",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:4",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 5,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5"
+  }
+  {
+    "identity": 1152921504606846981,
+    "start": 5,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Operador",
+      "fechah": "01/11/2010",
+      "fechad": "01/05/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846981",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 5,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5"
+  }
+  {
+    "identity": 1155173304420532229,
+    "start": 5,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Operador",
+      "fechah": "01/11/2010",
+      "fechad": "01/05/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532229",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 5,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5"
+  }
+  {
+    "identity": 1157425104234217477,
+    "start": 5,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Operador",
+      "fechah": "01/11/2010",
+      "fechad": "01/05/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217477",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 5,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5"
+  }
+  {
+    "identity": 6917530127152709685,
+    "start": 5,
+    "end": 53,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709685",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:53"
+  }
+  {
+    "identity": 53,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Control M"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:53"
+  }
+  {
+    "identity": 5,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5"
+  }
+  {
+    "identity": 6917530127152709686,
+    "start": 5,
+    "end": 54,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709686",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:54"
+  }
+  {
+    "identity": 54,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Crontab"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:54"
+  }
+  {
+    "identity": 5,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5"
+  }
+  {
+    "identity": 6917530127152709687,
+    "start": 5,
+    "end": 55,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709687",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:55"
+  }
+  {
+    "identity": 55,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Tivoli"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:55"
+  }
+  {
+    "identity": 6,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "GarcÌa",
+      "fechanac": "23/01/1985",
+      "nombre": "Eduardo",
+      "email": "garcia@live.com.ar",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6"
+  }
+  {
+    "identity": 1152921504606846982,
+    "start": 6,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechad": "01/09/2013"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846982",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 1152921504606846984,
+    "start": 8,
+    "end": 12,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de desarrollo",
+      "fechad": "01/01/2014"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846984",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:12"
+  }
+  {
+    "identity": 12,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "GestiÛn de InformaciÛn FarmacÈutica",
+      "ubicacion": "Argentina",
+      "id": "3",
+      "nombre": "CSF",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:12"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 1155173304420532232,
+    "start": 8,
+    "end": 33,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de desarrollo",
+      "fechad": "01/01/2014"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532232",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:33"
+  }
+  {
+    "identity": 33,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Gestion de Informacion Farmaceutica",
+      "ubicacion": "Argentina",
+      "id": "3",
+      "nombre": "CSF",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:33"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6928789126221135915,
+    "start": 8,
+    "end": 43,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6928789126221135915",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6928789126221135916,
+    "start": 8,
+    "end": 44,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6928789126221135916",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6924285526593765421,
+    "start": 8,
+    "end": 45,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6924285526593765421",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 45,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de proyectos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6922033726780080174,
+    "start": 8,
+    "end": 46,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080174",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 46,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Revision y elaboracion de contratos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6919781926966394932,
+    "start": 8,
+    "end": 52,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394932",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+  }
+  {
+    "identity": 52,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Evaluacion de proveedores"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6917530127152709691,
+    "start": 8,
+    "end": 59,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709691",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:59"
+  }
+  {
+    "identity": 59,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de recursos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:59"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 1152923703630102536,
+    "start": 8,
+    "end": 63,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/1997",
+      "fechad": "01/02/1990"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152923703630102536",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 63,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Ingeniero en Sistemas de Informacion",
+      "nombre": "Ing en Sistemas de Informacion",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 6919783026478022723,
+    "start": 8,
+    "end": 67,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2006",
+      "fechad": "01/04/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919783026478022723",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 67,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Master en Business Administration",
+      "nombre": "MBA",
+      "nivel": "Postgrado"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 1152925902653358088,
+    "start": 8,
+    "end": 25,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Estudio",
+      "fechad": "1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152925902653358088",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 1157425104234217481,
+    "start": 9,
+    "end": 10,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechad": "01/01/2006"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217481",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 10,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "TelefÛnica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 1152921504606846985,
+    "start": 9,
+    "end": 11,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechah": "01/10/2004",
+      "fechad": "01/12/1999"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846985",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 11,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "ConsultorÌa",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 1159676904047902729,
+    "start": 9,
+    "end": 31,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechad": "01/01/2006"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902729",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 31,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "Telefonica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 1155173304420532233,
+    "start": 9,
+    "end": 32,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechah": "01/10/2004",
+      "fechad": "01/12/1999"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532233",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 32,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Consultoria",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 6917530127152709692,
+    "start": 9,
+    "end": 60,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709692",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:60"
+  }
+  {
+    "identity": 60,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Administracion Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:60"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 6917530127152709693,
+    "start": 9,
+    "end": 61,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709693",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:61"
+  }
+  {
+    "identity": 61,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Tuning Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:61"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 6917530127152709694,
+    "start": 9,
+    "end": 62,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709694",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:62"
+  }
+  {
+    "identity": 62,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Backup y Restore Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:62"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6922032627268452362,
+    "start": 21,
+    "end": 10,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechah": "01/05/2000",
+      "fechad": "01/02/1997"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922032627268452362",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 10,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "TelefÛnica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6922032627268452363,
+    "start": 21,
+    "end": 11,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Programador",
+      "fechah": "01/09/2008",
+      "fechad": "01/06/2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922032627268452363",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 11,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "ConsultorÌa",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1152921504606846997,
+    "start": 21,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechad": "01/10/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846997",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919780827454767135,
+    "start": 21,
+    "end": 31,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechah": "01/05/2000",
+      "fechad": "01/02/1997"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919780827454767135",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 31,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "Telefonica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919780827454767136,
+    "start": 21,
+    "end": 32,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Programador",
+      "fechah": "01/09/2008",
+      "fechad": "01/06/2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919780827454767136",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 32,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Consultoria",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1159676904047902741,
+    "start": 21,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechad": "01/10/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902741",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919781926966394922,
+    "start": 21,
+    "end": 42,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394922",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+  }
+  {
+    "identity": 42,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "PHP"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919781926966394923,
+    "start": 21,
+    "end": 43,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394923",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919781926966394924,
+    "start": 21,
+    "end": 44,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394924",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919781926966394930,
+    "start": 21,
+    "end": 50,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394930",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 50,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "C++"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919781926966394931,
+    "start": 21,
+    "end": 51,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394931",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 51,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "SQL"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 6919783026478022719,
+    "start": 21,
+    "end": 63,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2000",
+      "fechad": "01/03/1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919783026478022719",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 63,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Ingeniero en Sistemas de Informacion",
+      "nombre": "Ing en Sistemas de Informacion",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1161933101908099093,
+    "start": 21,
+    "end": 2,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Amistad",
+      "fechad": "1990"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161933101908099093",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1157429502280728597,
+    "start": 21,
+    "end": 8,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Estudio",
+      "fechad": "1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157429502280728597",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 8,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1152925902653358101,
+    "start": 21,
+    "end": 9,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Trabajo",
+      "fechad": "2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152925902653358101",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1164184901721784341,
+    "start": 21,
+    "end": 23,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Amistad",
+      "fechad": "1990"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164184901721784341",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1159681302094413845,
+    "start": 21,
+    "end": 29,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Estudio",
+      "fechad": "1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159681302094413845",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 21,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Corrado",
+      "fechanac": "01/08/1966",
+      "nombre": "Gustavo",
+      "email": "gustavo.corrado@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21"
+  }
+  {
+    "identity": 1155177702467043349,
+    "start": 21,
+    "end": 30,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Trabajo",
+      "fechad": "2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155177702467043349",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:21",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 1152921504606846998,
+    "start": 22,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Lider de proyecto",
+      "fechad": "01/07/2011"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846998",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 1155173304420532246,
+    "start": 22,
+    "end": 41,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Lider de proyecto",
+      "fechad": "01/07/2011"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532246",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 41,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6922033726780080170,
+    "start": 22,
+    "end": 42,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080170",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+  }
+  {
+    "identity": 42,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "PHP"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6922033726780080171,
+    "start": 22,
+    "end": 43,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080171",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6922033726780080172,
+    "start": 22,
+    "end": 44,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080172",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6917530127152709677,
+    "start": 22,
+    "end": 45,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709677",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 45,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de proyectos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6922033726780080178,
+    "start": 22,
+    "end": 50,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080178",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 50,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "C++"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6922033726780080179,
+    "start": 22,
+    "end": 51,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080179",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 51,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "SQL"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6917530127152709684,
+    "start": 22,
+    "end": 52,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917530127152709684",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+  }
+  {
+    "identity": 52,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Evaluacion de proveedores"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 6917531226664337472,
+    "start": 22,
+    "end": 64,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "En curso",
+      "fechad": "01/04/1996"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337472",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+  }
+  {
+    "identity": 64,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Licenciado en Sistemas de Informacion",
+      "nombre": "Lic en Sist de Inf",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1161928703861587991,
+    "start": 23,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161928703861587991",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1152921504606846999,
+    "start": 23,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846999",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1157425104234217495,
+    "start": 23,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217495",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1164180503675273239,
+    "start": 23,
+    "end": 35,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164180503675273239",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 35,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Aviacion",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1155173304420532247,
+    "start": 23,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532247",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1159676904047902743,
+    "start": 23,
+    "end": 41,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902743",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 41,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 6919781926966394926,
+    "start": 23,
+    "end": 46,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394926",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 46,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Revision y elaboracion de contratos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 6919781926966394927,
+    "start": 23,
+    "end": 47,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394927",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:47"
+  }
+  {
+    "identity": 47,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Creacion de sociedades"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:47"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 6919781926966394928,
+    "start": 23,
+    "end": 48,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394928",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:48"
+  }
+  {
+    "identity": 48,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Contestacion de demandas"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:48"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 6919781926966394929,
+    "start": 23,
+    "end": 49,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394929",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:49"
+  }
+  {
+    "identity": 49,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:49"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 6919783026478022721,
+    "start": 23,
+    "end": 65,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/1997",
+      "fechad": "01/04/1989"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919783026478022721",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+  }
+  {
+    "identity": 65,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Abogado",
+      "nombre": "Derecho",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 6922032627268452365,
+    "start": 24,
+    "end": 13,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechad": "01/11/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922032627268452365",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:13"
+  }
+  {
+    "identity": 13,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Petrolera",
+      "ubicacion": "Estados Unidos",
+      "id": "4",
+      "nombre": "Chevron",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:13"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 6922032627268452369,
+    "start": 24,
+    "end": 17,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechah": "01/10/2009",
+      "fechad": "01/06/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922032627268452369",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }
+  {
+    "identity": 17,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "IT",
+      "ubicacion": "Estados Unidos",
+      "id": "8",
+      "nombre": "IBM",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 1152921504606847000,
+    "start": 24,
+    "end": 19,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechah": "01/05/2005",
+      "fechad": "01/03/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847000",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 19,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 6919780827454767138,
+    "start": 24,
+    "end": 34,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechad": "01/11/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919780827454767138",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:34"
+  }
+  {
+    "identity": 34,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Petrolera",
+      "ubicacion": "Estados Unidos",
+      "id": "4",
+      "nombre": "Chevron",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:34"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 6919780827454767142,
+    "start": 24,
+    "end": 38,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Desarrollo",
+      "fechah": "01/10/2009",
+      "fechad": "01/06/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919780827454767142",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:38"
+  }
+  {
+    "identity": 38,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "IT",
+      "ubicacion": "Estados Unidos",
+      "id": "8",
+      "nombre": "IBM",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:38"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 1155173304420532248,
+    "start": 24,
+    "end": 40,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista Funcional",
+      "fechah": "01/05/2005",
+      "fechad": "01/03/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532248",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:40"
+  }
+  {
+    "identity": 40,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:40"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 6926537326407450667,
+    "start": 24,
+    "end": 43,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6926537326407450667",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 6926537326407450668,
+    "start": 24,
+    "end": 44,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6926537326407450668",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 6922033726780080173,
+    "start": 24,
+    "end": 45,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080173",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 45,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de proyectos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 24,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Pereyra",
+      "fechanac": "18/05/1993",
+      "nombre": "Claudio",
+      "email": "cpereyra30@yahoo.com.ar",
+      "pais": "Estados Unidos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24"
+  }
+  {
+    "identity": 1152923703630102552,
+    "start": 24,
+    "end": 63,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "En curso",
+      "fechad": "01/03/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152923703630102552",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:24",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 63,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Ingeniero en Sistemas de Informacion",
+      "nombre": "Ing en Sistemas de Informacion",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1157425104234217497,
+    "start": 25,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de Marketing",
+      "fechah": "01/03/2005",
+      "fechad": "01/12/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217497",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1166432303488958489,
+    "start": 25,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Empresario",
+      "fechah": "01/10/2010",
+      "fechad": "01/04/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1166432303488958489",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1152921504606847001,
+    "start": 25,
+    "end": 19,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Marketing",
+      "fechah": "01/11/2001",
+      "fechad": "01/03/1998"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847001",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 19,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1161928703861587993,
+    "start": 25,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de Marketing",
+      "fechah": "01/03/2008",
+      "fechad": "01/04/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161928703861587993",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1159676904047902745,
+    "start": 25,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de Marketing",
+      "fechah": "01/03/2005",
+      "fechad": "01/12/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902745",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1168684103302643737,
+    "start": 25,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Empresario",
+      "fechah": "01/10/2010",
+      "fechad": "01/04/2008"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1168684103302643737",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1155173304420532249,
+    "start": 25,
+    "end": 40,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Jefe de Marketing",
+      "fechah": "01/11/2001",
+      "fechad": "01/03/1998"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532249",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:40"
+  }
+  {
+    "identity": 40,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Supermercado",
+      "ubicacion": "Argentina",
+      "id": "10",
+      "nombre": "Carrefour",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:40"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1164180503675273241,
+    "start": 25,
+    "end": 41,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de Marketing",
+      "fechah": "01/03/2008",
+      "fechad": "01/04/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164180503675273241",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 41,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 6917531226664337474,
+    "start": 25,
+    "end": 66,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/11/2001",
+      "fechad": "01/05/1997"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337474",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:66"
+  }
+  {
+    "identity": 66,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Tecnico en Comercializacion",
+      "nombre": "Comercializacion",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:66"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 6917531226664337475,
+    "start": 25,
+    "end": 67,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2005",
+      "fechad": "01/03/2002"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337475",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 67,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Master en Business Administration",
+      "nombre": "MBA",
+      "nivel": "Postgrado"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 1155177702467043353,
+    "start": 25,
+    "end": 28,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Amistad",
+      "fechad": "1990"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155177702467043353",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 26,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26"
+  }
+  {
+    "identity": 1152921504606847002,
+    "start": 26,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Operador",
+      "fechah": "01/11/2010",
+      "fechad": "01/05/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847002",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 26,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26"
+  }
+  {
+    "identity": 1155173304420532250,
+    "start": 26,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Operador",
+      "fechah": "01/11/2010",
+      "fechad": "01/05/2009"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532250",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 26,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26"
+  }
+  {
+    "identity": 6919781926966394933,
+    "start": 26,
+    "end": 53,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394933",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:53"
+  }
+  {
+    "identity": 53,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Control M"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:53"
+  }
+  {
+    "identity": 26,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26"
+  }
+  {
+    "identity": 6919781926966394934,
+    "start": 26,
+    "end": 54,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394934",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:54"
+  }
+  {
+    "identity": 54,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Crontab"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:54"
+  }
+  {
+    "identity": 26,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26"
+  }
+  {
+    "identity": 6919781926966394935,
+    "start": 26,
+    "end": 55,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394935",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:55"
+  }
+  {
+    "identity": 55,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Tivoli"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:55"
+  }
+  {
+    "identity": 27,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Garcia",
+      "fechanac": "23/01/1985",
+      "nombre": "Eduardo",
+      "email": "garcia@live.com.ar",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27"
+  }
+  {
+    "identity": 1152921504606847003,
+    "start": 27,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechad": "01/09/2013"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847003",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 27,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Garcia",
+      "fechanac": "23/01/1985",
+      "nombre": "Eduardo",
+      "email": "garcia@live.com.ar",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27"
+  }
+  {
+    "identity": 1155173304420532251,
+    "start": 27,
+    "end": 35,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Programador",
+      "fechad": "01/09/2013"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532251",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 35,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Aviacion",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 27,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Garcia",
+      "fechanac": "23/01/1985",
+      "nombre": "Eduardo",
+      "email": "garcia@live.com.ar",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27"
+  }
+  {
+    "identity": 1152922604118474779,
+    "start": 27,
+    "end": 50,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152922604118474779",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 50,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "C++"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 27,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Garcia",
+      "fechanac": "23/01/1985",
+      "nombre": "Eduardo",
+      "email": "garcia@live.com.ar",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27"
+  }
+  {
+    "identity": 6924285526593765427,
+    "start": 27,
+    "end": 51,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6924285526593765427",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 51,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "SQL"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 27,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Garcia",
+      "fechanac": "23/01/1985",
+      "nombre": "Eduardo",
+      "email": "garcia@live.com.ar",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27"
+  }
+  {
+    "identity": 6917531226664337476,
+    "start": 27,
+    "end": 68,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "En curso",
+      "fechad": "01/04/2012"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337476",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:27",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68"
+  }
+  {
+    "identity": 68,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Tecnico en Programacion",
+      "nombre": "Tec. En Programacion",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 1152921504606847004,
+    "start": 28,
+    "end": 12,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista de Planificacion",
+      "fechah": "01/09/2013",
+      "fechad": "01/07/2011"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847004",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:12"
+  }
+  {
+    "identity": 12,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "GestiÛn de InformaciÛn FarmacÈutica",
+      "ubicacion": "Argentina",
+      "id": "3",
+      "nombre": "CSF",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:12"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 6917529027641081871,
+    "start": 28,
+    "end": 15,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor de Planificacion",
+      "fechah": "01/12/2013",
+      "fechad": "01/10/2013"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081871",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:15"
+  }
+  {
+    "identity": 15,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Reventa",
+      "ubicacion": "EspaÒa",
+      "id": "6",
+      "nombre": "Gomez & Asoc",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:15"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 6917529027641081872,
+    "start": 28,
+    "end": 16,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Contador Sr",
+      "fechad": "01/01/2014"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081872",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:16"
+  }
+  {
+    "identity": 16,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "CapacitaciÛn",
+      "ubicacion": "EspaÒa",
+      "id": "7",
+      "nombre": "Alteon",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:16"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 1155173304420532252,
+    "start": 28,
+    "end": 33,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Analista de Planificacion",
+      "fechah": "01/09/2013",
+      "fechad": "01/07/2011"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532252",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:33"
+  }
+  {
+    "identity": 33,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Gestion de Informacion Farmaceutica",
+      "ubicacion": "Argentina",
+      "id": "3",
+      "nombre": "CSF",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:33"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 6917529027641081892,
+    "start": 28,
+    "end": 36,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor de Planificacion",
+      "fechah": "01/12/2013",
+      "fechad": "01/10/2013"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081892",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:36"
+  }
+  {
+    "identity": 36,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Reventa",
+      "ubicacion": "España",
+      "id": "6",
+      "nombre": "Gomez & Asoc",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:36"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 6917529027641081893,
+    "start": 28,
+    "end": 37,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Contador Sr",
+      "fechad": "01/01/2014"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081893",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:37"
+  }
+  {
+    "identity": 37,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Capacitacion",
+      "ubicacion": "España",
+      "id": "7",
+      "nombre": "Alteon",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:37"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 6919783026478022720,
+    "start": 28,
+    "end": 64,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Incompleto",
+      "fechah": "01/12/1999",
+      "fechad": "01/04/1996"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919783026478022720",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+  }
+  {
+    "identity": 64,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Licenciado en Sistemas de Informacion",
+      "nombre": "Lic en Sist de Inf",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 6917531226664337477,
+    "start": 28,
+    "end": 69,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2007",
+      "fechad": "01/04/2000"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917531226664337477",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:69"
+  }
+  {
+    "identity": 69,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Contador",
+      "nombre": "Ciencias Economicas",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:69"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 1152921504606847005,
+    "start": 29,
+    "end": 12,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de desarrollo",
+      "fechad": "01/01/2014"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847005",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:12"
+  }
+  {
+    "identity": 12,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "GestiÛn de InformaciÛn FarmacÈutica",
+      "ubicacion": "Argentina",
+      "id": "3",
+      "nombre": "CSF",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:12"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 1155173304420532253,
+    "start": 29,
+    "end": 33,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Gerente de desarrollo",
+      "fechad": "01/01/2014"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532253",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:33"
+  }
+  {
+    "identity": 33,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Gestion de Informacion Farmaceutica",
+      "ubicacion": "Argentina",
+      "id": "3",
+      "nombre": "CSF",
+      "tamano": "Chica"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:33"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6931040926034821163,
+    "start": 29,
+    "end": 43,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6931040926034821163",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6931040926034821164,
+    "start": 29,
+    "end": 44,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6931040926034821164",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6926537326407450669,
+    "start": 29,
+    "end": 45,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6926537326407450669",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 45,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de proyectos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6924285526593765422,
+    "start": 29,
+    "end": 46,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6924285526593765422",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 46,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Revision y elaboracion de contratos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6922033726780080180,
+    "start": 29,
+    "end": 52,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922033726780080180",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+  }
+  {
+    "identity": 52,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Evaluacion de proveedores"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6919781926966394939,
+    "start": 29,
+    "end": 59,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394939",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:59"
+  }
+  {
+    "identity": 59,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de recursos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:59"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 1152923703630102557,
+    "start": 29,
+    "end": 63,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/1997",
+      "fechad": "01/02/1990"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152923703630102557",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 63,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Ingeniero en Sistemas de Informacion",
+      "nombre": "Ing en Sistemas de Informacion",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 6922034826291707971,
+    "start": 29,
+    "end": 67,
+    "type": "ESTUDIO",
+    "properties": {
+      "estado": "Completo",
+      "fechah": "01/12/2006",
+      "fechad": "01/04/2003"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6922034826291707971",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 67,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Master en Business Administration",
+      "nombre": "MBA",
+      "nivel": "Postgrado"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 29,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lupis",
+      "fechanac": "27/09/1980",
+      "nombre": "Jorge",
+      "email": "jlup@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29"
+  }
+  {
+    "identity": 1152925902653358109,
+    "start": 29,
+    "end": 25,
+    "type": "CONOCE_A",
+    "properties": {
+      "motivo": "Estudio",
+      "fechad": "1994"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152925902653358109",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:29",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 25,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Lopez",
+      "fechanac": "11/02/1970",
+      "nombre": "Mario",
+      "email": "mario.lopez@gmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 1157425104234217502,
+    "start": 30,
+    "end": 10,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechad": "01/01/2006"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217502",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 10,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "TelefÛnica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 1152921504606847006,
+    "start": 30,
+    "end": 11,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechah": "01/10/2004",
+      "fechad": "01/12/1999"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606847006",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 11,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "ConsultorÌa",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 1159676904047902750,
+    "start": 30,
+    "end": 31,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechad": "01/01/2006"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902750",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 31,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "1",
+      "nombre": "Telefonica de Argentina",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 1155173304420532254,
+    "start": 30,
+    "end": 32,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "DBA",
+      "fechah": "01/10/2004",
+      "fechad": "01/12/1999"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532254",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 32,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Consultoria",
+      "ubicacion": "Argentina",
+      "id": "2",
+      "nombre": "Accenture",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 6919781926966394940,
+    "start": 30,
+    "end": 60,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394940",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:60"
+  }
+  {
+    "identity": 60,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Administracion Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:60"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 6919781926966394941,
+    "start": 30,
+    "end": 61,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394941",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:61"
+  }
+  {
+    "identity": 61,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Tuning Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:61"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
+  {
+    "identity": 6919781926966394942,
+    "start": 30,
+    "end": 62,
+    "type": "POSEE",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6919781926966394942",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:62"
+  }
+  {
+    "identity": 62,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Backup y Restore Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:62"
+  }
+  {
+    "identity": 63,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Ingeniero en Sistemas de Informacion",
+      "nombre": "Ing en Sistemas de Informacion",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+  }
+  {
+    "identity": 6917532326175965256,
+    "start": 63,
+    "end": 72,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917532326175965256",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:72"
+  }
+  {
+    "identity": 72,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Buenos Aires",
+      "tipo": "Universidad",
+      "nombre": "UTN FRBA"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:72"
+  }
+  {
+    "identity": 64,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Licenciado en Sistemas de Informacion",
+      "nombre": "Lic en Sist de Inf",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+  }
+  {
+    "identity": 6917532326175965257,
+    "start": 64,
+    "end": 73,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917532326175965257",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:73"
+  }
+  {
+    "identity": 73,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Buenos Aires",
+      "tipo": "Universidad",
+      "nombre": "UBA Cs Es"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:73"
+  }
+  {
+    "identity": 65,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Abogado",
+      "nombre": "Derecho",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+  }
+  {
+    "identity": 6917532326175965258,
+    "start": 65,
+    "end": 74,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917532326175965258",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:74"
+  }
+  {
+    "identity": 74,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Cordoba",
+      "tipo": "Universidad",
+      "nombre": "UNC FD"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:74"
+  }
+  {
+    "identity": 66,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Tecnico en Comercializacion",
+      "nombre": "Comercializacion",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:66"
+  }
+  {
+    "identity": 1152924803141730370,
+    "start": 66,
+    "end": 75,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152924803141730370",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:66",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:75"
+  }
+  {
+    "identity": 75,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Buenos Aires",
+      "tipo": "Universidad",
+      "nombre": "UADE"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:75"
+  }
+  {
+    "identity": 67,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Master en Business Administration",
+      "nombre": "MBA",
+      "nivel": "Postgrado"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+  }
+  {
+    "identity": 6917532326175965260,
+    "start": 67,
+    "end": 76,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917532326175965260",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:76"
+  }
+  {
+    "identity": 76,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Buenos Aires",
+      "tipo": "Universidad",
+      "nombre": "Universidad de San Andres"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:76"
+  }
+  {
+    "identity": 68,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Tecnico en Programacion",
+      "nombre": "Tec. En Programacion",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68"
+  }
+  {
+    "identity": 1152924803141730372,
+    "start": 68,
+    "end": 77,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152924803141730372",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:77"
+  }
+  {
+    "identity": 77,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Avellaneda",
+      "tipo": "Universidad",
+      "nombre": "UTN FRA"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:77"
+  }
+  {
+    "identity": 69,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Contador",
+      "nombre": "Ciencias Economicas",
+      "nivel": "Universitario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:69"
+  }
+  {
+    "identity": 1152924803141730373,
+    "start": 69,
+    "end": 73,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152924803141730373",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:69",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:73"
+  }
+  {
+    "identity": 73,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Buenos Aires",
+      "tipo": "Universidad",
+      "nombre": "UBA Cs Es"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:73"
+  }
+  {
+    "identity": 70,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Oracle Certified Associate",
+      "nombre": "OCA",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:70"
+  }
+  {
+    "identity": 1152924803141730374,
+    "start": 70,
+    "end": 78,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152924803141730374",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:70",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:78"
+  }
+  {
+    "identity": 78,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Buenos Aires",
+      "tipo": "Empresa",
+      "nombre": "Oracle Education"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:78"
+  }
+  {
+    "identity": 71,
+    "labels": [
+      "Carrera"
+    ],
+    "properties": {
+      "titulo": "Oracle Certified Professional",
+      "nombre": "OCP",
+      "nivel": "Terciario"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:71"
+  }
+  {
+    "identity": 1152924803141730375,
+    "start": 71,
+    "end": 78,
+    "type": "DICTADA_EN",
+    "properties": {
+  
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152924803141730375",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:71",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:78"
+  }
+  {
+    "identity": 78,
+    "labels": [
+      "Institucion"
+    ],
+    "properties": {
+      "ubicacion": "Buenos Aires",
+      "tipo": "Empresa",
+      "nombre": "Oracle Education"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:78"
+  }

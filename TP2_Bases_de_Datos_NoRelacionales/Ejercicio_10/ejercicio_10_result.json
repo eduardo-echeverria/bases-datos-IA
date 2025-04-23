@@ -1,0 +1,39 @@
+[{
+  "personas": [
+    "Juan Manuel Manoni"
+  ],
+  "producto": "TUERCA 5mm"
+},
+{
+  "personas": [
+    "Martin Zavasi"
+  ],
+  "producto": "CORREA 10mm"
+},
+{
+  "personas": [
+    "Juan Manuel Manoni",
+    "Soledad Lavagno"
+  ],
+  "producto": "SET HERRAMIENTAS"
+},
+{
+  "personas": [
+    "Marina Malinez"
+  ],
+  "producto": " CORREA 12mm"
+},
+{
+  "personas": [
+    "Juan Manuel Manoni",
+    "Marina Malinez"
+  ],
+  "producto": "TALADRO 12mm"
+},
+{
+  "personas": [
+    "Juan Manuel Manoni",
+    "Martin Zavasi"
+  ],
+  "producto": "TUERCA 2mm"
+}]

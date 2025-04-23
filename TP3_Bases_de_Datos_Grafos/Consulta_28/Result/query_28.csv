@@ -1,0 +1,75 @@
+╒══════════════════════════════════════════════════════════════════════╤═══════════════════╤═══════╕
+│path                                                                  │ContactoSugerido   │Empresa│
+╞══════════════════════════════════════════════════════════════════════╪═══════════════════╪═══════╡
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"AnalÌa DÌaz"      │"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "TelefonÌa",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "LÌder de proyecto",fechad: "01/07/2011"}]-(:Persona {a│                   │       │
+│pellido: "DÌaz",fechanac: "10/12/1978",nombre: "AnalÌa",email: "adiaz@│                   │       │
+│hotmail.com",pais: "Argentina"})                                      │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mariana Dominguez"│"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "TelefonÌa",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Abogado Sr.",fechah: "01/11/2005",fechad: "01/08/2001"│                   │       │
+│}]-(:Persona {apellido: "Dominguez",fechanac: "31/10/1990",nombre: "Ma│                   │       │
+│riana",email: "mariana@yahoo.com",pais: "Chile"})                     │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mariana Dominguez"│"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "TelefonÌa",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Abogado Sr.",fechah: "01/11/2005",fechad: "01/08/2001"│                   │       │
+│}]-(:Persona {apellido: "Dominguez",fechanac: "31/10/1990",nombre: "Ma│                   │       │
+│riana",email: "mariana@yahoo.com",pais: "Chile"})                     │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mario LÛpez"      │"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "TelefonÌa",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Gerente de Marketing",fechah: "01/03/2008",fechad: "01│                   │       │
+│/04/2005"}]-(:Persona {apellido: "LÛpez",fechanac: "11/02/1970",nombre│                   │       │
+│: "Mario",email: "mario.lopez@gmail.com",pais: "Argentina"})          │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mariana Dominguez"│"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "TelefonÌa",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Abogado Sr.",fechah: "01/11/2005",fechad: "01/08/2001"│                   │       │
+│}]-(:Persona {apellido: "Dominguez",fechanac: "31/10/1990",nombre: "Ma│                   │       │
+│riana",email: "mariana@yahoo.com",pais: "Chile"})                     │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mario Lopez"      │"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "TelefonÌa",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Gerente de Marketing",fechah: "01/03/2008",fechad: "01│                   │       │
+│/04/2005"}]-(:Persona {apellido: "Lopez",fechanac: "11/02/1970",nombre│                   │       │
+│: "Mario",email: "mario.lopez@gmail.com",pais: "Argentina"})          │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mariana Dominguez"│"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "Telefonia",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Abogado Sr.",fechah: "01/11/2005",fechad: "01/08/2001"│                   │       │
+│}]-(:Persona {apellido: "Dominguez",fechanac: "31/10/1990",nombre: "Ma│                   │       │
+│riana",email: "mariana@yahoo.com",pais: "Chile"})                     │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mariana Dominguez"│"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "Telefonia",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Abogado Sr.",fechah: "01/11/2005",fechad: "01/08/2001"│                   │       │
+│}]-(:Persona {apellido: "Dominguez",fechanac: "31/10/1990",nombre: "Ma│                   │       │
+│riana",email: "mariana@yahoo.com",pais: "Chile"})                     │                   │       │
+├──────────────────────────────────────────────────────────────────────┼───────────────────┼───────┤
+│(:Persona {apellido: "Diaz",fechanac: "10/12/1978",nombre: "Analia",em│"Mario Lopez"      │"Claro"│
+│ail: "adiaz@hotmail.com",pais: "Argentina"})-[:TRABAJO {puesto: "Lider│                   │       │
+│ de proyecto",fechad: "01/07/2011"}]->(:Empresa {rubro: "Telefonia",ub│                   │       │
+│icacion: "Argentina",id: "11",nombre: "Claro",tamano: "Grande"})<-[:TR│                   │       │
+│ABAJO {puesto: "Gerente de Marketing",fechah: "01/03/2008",fechad: "01│                   │       │
+│/04/2005"}]-(:Persona {apellido: "Lopez",fechanac: "11/02/1970",nombre│                   │       │
+│: "Mario",email: "mario.lopez@gmail.com",pais: "Argentina"})          │                   │       │
+└──────────────────────────────────────────────────────────────────────┴───────────────────┴───────┘

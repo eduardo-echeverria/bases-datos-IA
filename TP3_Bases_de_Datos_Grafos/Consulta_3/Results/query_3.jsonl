@@ -1,0 +1,639 @@
+{
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1166432303488958466,
+    "start": 2,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1166432303488958466",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 6917529027641081870,
+    "start": 2,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor ·rea Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:6917529027641081870",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1152921504606846978,
+    "start": 2,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846978",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1157425104234217474,
+    "start": 2,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217474",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1155173304420532226,
+    "start": 2,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532226",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1161928703861587970,
+    "start": 2,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161928703861587970",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1168684103302643714,
+    "start": 2,
+    "end": 35,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1168684103302643714",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 35,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Aviacion",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1159676904047902722,
+    "start": 2,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902722",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+//
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 1164180503675273218,
+    "start": 2,
+    "end": 41,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164180503675273218",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 41,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+//
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1161928703861587991,
+    "start": 23,
+    "end": 14,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1161928703861587991",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+  {
+    "identity": 14,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "AviaciÛn",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+  }
+//
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1152921504606846999,
+    "start": 23,
+    "end": 18,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152921504606846999",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+  {
+    "identity": 18,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco NaciÛn",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+  }
+//
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1157425104234217495,
+    "start": 23,
+    "end": 20,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1157425104234217495",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+  {
+    "identity": 20,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "TelefonÌa",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+  }
+//
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1164180503675273239,
+    "start": 23,
+    "end": 35,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Supervisor Area Legales",
+      "fechad": "01/12/2005"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1164180503675273239",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+  {
+    "identity": 35,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Aviacion",
+      "ubicacion": "Chile",
+      "id": "5",
+      "nombre": "Lan",
+      "tamano": "Mediana"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+  }
+//
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1155173304420532247,
+    "start": 23,
+    "end": 39,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Jr.",
+      "fechah": "01/07/2001",
+      "fechad": "01/04/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1155173304420532247",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+  {
+    "identity": 39,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Banco",
+      "ubicacion": "Argentina",
+      "id": "9",
+      "nombre": "Banco Nacion",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+  }
+//
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 1159676904047902743,
+    "start": 23,
+    "end": 41,
+    "type": "TRABAJO",
+    "properties": {
+      "puesto": "Abogado Sr.",
+      "fechah": "01/11/2005",
+      "fechad": "01/08/2001"
+    },
+    "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1159676904047902743",
+    "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23",
+    "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }
+  {
+    "identity": 41,
+    "labels": [
+      "Empresa"
+    ],
+    "properties": {
+      "rubro": "Telefonia",
+      "ubicacion": "Argentina",
+      "id": "11",
+      "nombre": "Claro",
+      "tamano": "Grande"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+  }

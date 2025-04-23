@@ -1,0 +1,32 @@
+[{
+  "cantFacturas": 42,
+  "apellido": "Manoni",
+  "nombre": "Juan Manuel",
+  "region": "NEA",
+  "cuit": 2029889382
+},
+{
+  "cantFacturas": 14,
+  "apellido": "Lavagno",
+  "nombre": "Soledad",
+  "region": "NOA",
+  "cuit": {
+    "$numberLong": "2729887543"
+  }
+},
+{
+  "cantFacturas": 29,
+  "apellido": "Zavasi",
+  "nombre": "Martin",
+  "region": "CABA",
+  "cuit": 2038373771
+},
+{
+  "cantFacturas": 15,
+  "apellido": "Malinez",
+  "nombre": "Marina",
+  "region": "CENTRO",
+  "cuit": {
+    "$numberLong": "2740488484"
+  }
+}]

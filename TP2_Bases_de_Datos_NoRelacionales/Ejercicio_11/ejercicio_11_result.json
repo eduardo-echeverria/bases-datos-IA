@@ -1,0 +1,45 @@
+[{
+  "personas": [
+    "Marina Malinez",
+    "Juan Manuel Manoni"
+  ],
+  "producto": "TALADRO 12mm",
+  "cantidadPersonas": 2
+},
+{
+  "personas": [
+    "Juan Manuel Manoni",
+    "Martin Zavasi"
+  ],
+  "producto": "TUERCA 2mm",
+  "cantidadPersonas": 2
+},
+{
+  "personas": [
+    "Juan Manuel Manoni",
+    "Soledad Lavagno"
+  ],
+  "producto": "SET HERRAMIENTAS",
+  "cantidadPersonas": 2
+},
+{
+  "personas": [
+    "Marina Malinez"
+  ],
+  "producto": " CORREA 12mm",
+  "cantidadPersonas": 1
+},
+{
+  "personas": [
+    "Juan Manuel Manoni"
+  ],
+  "producto": "TUERCA 5mm",
+  "cantidadPersonas": 1
+},
+{
+  "personas": [
+    "Martin Zavasi"
+  ],
+  "producto": "CORREA 10mm",
+  "cantidadPersonas": 1
+}]

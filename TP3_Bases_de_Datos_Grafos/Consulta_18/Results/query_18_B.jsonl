@@ -1,0 +1,55 @@
+{
+    "identity": -2,
+    "labels": [
+      "RelTypeCount"
+    ],
+    "properties": {
+      "type": "TRABAJO",
+      "total": 86
+    },
+    "elementId": "-2"
+  }
+  {
+    "identity": -3,
+    "labels": [
+      "RelTypeCount"
+    ],
+    "properties": {
+      "type": "POSEE",
+      "total": 57
+    },
+    "elementId": "-3"
+  }
+  {
+    "identity": -4,
+    "labels": [
+      "RelTypeCount"
+    ],
+    "properties": {
+      "type": "ESTUDIO",
+      "total": 16
+    },
+    "elementId": "-4"
+  }
+  {
+    "identity": -5,
+    "labels": [
+      "RelTypeCount"
+    ],
+    "properties": {
+      "type": "CONOCE_A",
+      "total": 15
+    },
+    "elementId": "-5"
+  }
+  {
+    "identity": -6,
+    "labels": [
+      "RelTypeCount"
+    ],
+    "properties": {
+      "type": "DICTADA_EN",
+      "total": 9
+    },
+    "elementId": "-6"
+  }

@@ -1,0 +1,352 @@
+RubroModificado	e
+"IT"	
+{
+  "identity": 10,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Telefonia",
+    "ubicacion": "Argentina",
+    "id": "1",
+    "nombre": "TelefÛnica de Argentina",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:10"
+}
+
+"ConsultorÌa"	
+{
+  "identity": 11,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "ConsultorÌa",
+    "ubicacion": "Argentina",
+    "id": "2",
+    "nombre": "Accenture",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:11"
+}
+
+"GestiÛn de InformaciÛn FarmacÈutica"	
+{
+  "identity": 12,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "GestiÛn de InformaciÛn FarmacÈutica",
+    "ubicacion": "Argentina",
+    "id": "3",
+    "nombre": "CSF",
+    "tamano": "Chica"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:12"
+}
+
+"Petrolera"	
+{
+  "identity": 13,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Petrolera",
+    "ubicacion": "Estados Unidos",
+    "id": "4",
+    "nombre": "Chevron",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:13"
+}
+
+"AviaciÛn"	
+{
+  "identity": 14,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "AviaciÛn",
+    "ubicacion": "Chile",
+    "id": "5",
+    "nombre": "Lan",
+    "tamano": "Mediana"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:14"
+}
+
+"Reventa"	
+{
+  "identity": 15,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Reventa",
+    "ubicacion": "EspaÒa",
+    "id": "6",
+    "nombre": "Gomez & Asoc",
+    "tamano": "Chica"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:15"
+}
+
+"CapacitaciÛn"	
+{
+  "identity": 16,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "CapacitaciÛn",
+    "ubicacion": "EspaÒa",
+    "id": "7",
+    "nombre": "Alteon",
+    "tamano": "Mediana"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:16"
+}
+
+"IT"	
+{
+  "identity": 17,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "IT",
+    "ubicacion": "Estados Unidos",
+    "id": "8",
+    "nombre": "IBM",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:17"
+}
+
+"Banco"	
+{
+  "identity": 18,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Banco",
+    "ubicacion": "Argentina",
+    "id": "9",
+    "nombre": "Banco NaciÛn",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:18"
+}
+
+"Supermercado"	
+{
+  "identity": 19,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Supermercado",
+    "ubicacion": "Argentina",
+    "id": "10",
+    "nombre": "Carrefour",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:19"
+}
+
+"IT"	
+{
+  "identity": 20,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Telefonia",
+    "ubicacion": "Argentina",
+    "id": "11",
+    "nombre": "Claro",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:20"
+}
+
+"IT"	
+{
+  "identity": 31,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Telefonia",
+    "ubicacion": "Argentina",
+    "id": "1",
+    "nombre": "Telefonica de Argentina",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:31"
+}
+
+"Consultoria"	
+{
+  "identity": 32,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Consultoria",
+    "ubicacion": "Argentina",
+    "id": "2",
+    "nombre": "Accenture",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:32"
+}
+
+"Gestion de Informacion Farmaceutica"	
+{
+  "identity": 33,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Gestion de Informacion Farmaceutica",
+    "ubicacion": "Argentina",
+    "id": "3",
+    "nombre": "CSF",
+    "tamano": "Chica"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:33"
+}
+
+"Petrolera"	
+{
+  "identity": 34,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Petrolera",
+    "ubicacion": "Estados Unidos",
+    "id": "4",
+    "nombre": "Chevron",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:34"
+}
+
+"Aviacion"	
+{
+  "identity": 35,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Aviacion",
+    "ubicacion": "Chile",
+    "id": "5",
+    "nombre": "Lan",
+    "tamano": "Mediana"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:35"
+}
+
+"Reventa"	
+{
+  "identity": 36,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Reventa",
+    "ubicacion": "España",
+    "id": "6",
+    "nombre": "Gomez & Asoc",
+    "tamano": "Chica"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:36"
+}
+
+"Capacitacion"	
+{
+  "identity": 37,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Capacitacion",
+    "ubicacion": "España",
+    "id": "7",
+    "nombre": "Alteon",
+    "tamano": "Mediana"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:37"
+}
+
+"IT"	
+{
+  "identity": 38,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "IT",
+    "ubicacion": "Estados Unidos",
+    "id": "8",
+    "nombre": "IBM",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:38"
+}
+
+"Banco"	
+{
+  "identity": 39,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Banco",
+    "ubicacion": "Argentina",
+    "id": "9",
+    "nombre": "Banco Nacion",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:39"
+}
+
+"Supermercado"	
+{
+  "identity": 40,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Supermercado",
+    "ubicacion": "Argentina",
+    "id": "10",
+    "nombre": "Carrefour",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:40"
+}
+
+"IT"	
+{
+  "identity": 41,
+  "labels": [
+    "Empresa"
+  ],
+  "properties": {
+    "rubro": "Telefonia",
+    "ubicacion": "Argentina",
+    "id": "11",
+    "nombre": "Claro",
+    "tamano": "Grande"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:41"
+}

@@ -1,0 +1,76 @@
+{
+    "start": {
+      "identity": 8,
+      "labels": [
+        "Persona"
+      ],
+      "properties": {
+        "apellido": "Lupis",
+        "fechanac": "27/09/1980",
+        "nombre": "Jorge",
+        "email": "jlup@gmail.com",
+        "pais": "Argentina"
+      },
+      "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+    },
+    "end": {
+      "identity": 25,
+      "labels": [
+        "Persona"
+      ],
+      "properties": {
+        "apellido": "Lopez",
+        "fechanac": "11/02/1970",
+        "nombre": "Mario",
+        "email": "mario.lopez@gmail.com",
+        "pais": "Argentina"
+      },
+      "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+    },
+    "segments": [
+      {
+        "start": {
+          "identity": 8,
+          "labels": [
+            "Persona"
+          ],
+          "properties": {
+            "apellido": "Lupis",
+            "fechanac": "27/09/1980",
+            "nombre": "Jorge",
+            "email": "jlup@gmail.com",
+            "pais": "Argentina"
+          },
+          "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8"
+        },
+        "relationship": {
+          "identity": 1152925902653358088,
+          "start": 8,
+          "end": 25,
+          "type": "CONOCE_A",
+          "properties": {
+            "motivo": "Estudio",
+            "fechad": "1994"
+          },
+          "elementId": "5:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1152925902653358088",
+          "startNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:8",
+          "endNodeElementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+        },
+        "end": {
+          "identity": 25,
+          "labels": [
+            "Persona"
+          ],
+          "properties": {
+            "apellido": "Lopez",
+            "fechanac": "11/02/1970",
+            "nombre": "Mario",
+            "email": "mario.lopez@gmail.com",
+            "pais": "Argentina"
+          },
+          "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:25"
+        }
+      }
+    ],
+    "length": 1.0
+  }

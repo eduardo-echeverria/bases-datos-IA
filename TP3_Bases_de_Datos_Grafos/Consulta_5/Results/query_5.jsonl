@@ -1,0 +1,210 @@
+{
+    "identity": 42,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "PHP"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+  }
+  {
+    "identity": 43,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Java"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+  }
+  {
+    "identity": 44,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Analisis Funcional"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+  }
+  {
+    "identity": 45,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de proyectos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+  }
+  {
+    "identity": 46,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Revision y elaboracion de contratos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+  }
+  {
+    "identity": 47,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Creacion de sociedades"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:47"
+  }
+  {
+    "identity": 48,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Contestacion de demandas"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:48"
+  }
+  {
+    "identity": 49,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:49"
+  }
+  {
+    "identity": 50,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "C++"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+  }
+  {
+    "identity": 51,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "SQL"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+  }
+  {
+    "identity": 52,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Evaluacion de proveedores"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+  }
+  {
+    "identity": 53,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Control M"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:53"
+  }
+  {
+    "identity": 54,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Crontab"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:54"
+  }
+  {
+    "identity": 55,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Tivoli"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:55"
+  }
+  {
+    "identity": 56,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "elaboracion de plan de negocios"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:56"
+  }
+  {
+    "identity": 57,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Evaluacion de proyectos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:57"
+  }
+  {
+    "identity": 58,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "elaboracion de balances"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:58"
+  }
+  {
+    "identity": 59,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Gestion de recursos"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:59"
+  }
+  {
+    "identity": 60,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Administracion Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:60"
+  }
+  {
+    "identity": 61,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Tuning Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:61"
+  }
+  {
+    "identity": 62,
+    "labels": [
+      "Conocimiento"
+    ],
+    "properties": {
+      "nombre": "Backup y Restore Oracle"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:62"
+  }

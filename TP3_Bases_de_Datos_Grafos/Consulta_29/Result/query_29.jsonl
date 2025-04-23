@@ -1,0 +1,484 @@
+c	data.conocimiento	data.frecuencia
+{
+  "identity": 63,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Ingeniero en Sistemas de Informacion",
+    "nombre": "Ing en Sistemas de Informacion",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+}
+{
+  "identity": 43,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Java"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+}
+6
+{
+  "identity": 63,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Ingeniero en Sistemas de Informacion",
+    "nombre": "Ing en Sistemas de Informacion",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:63"
+}
+{
+  "identity": 44,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Analisis Funcional"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+}
+6
+{
+  "identity": 64,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Licenciado en Sistemas de Informacion",
+    "nombre": "Lic en Sist de Inf",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+}
+{
+  "identity": 42,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "PHP"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:42"
+}
+1
+{
+  "identity": 64,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Licenciado en Sistemas de Informacion",
+    "nombre": "Lic en Sist de Inf",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+}
+{
+  "identity": 43,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Java"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+}
+1
+{
+  "identity": 64,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Licenciado en Sistemas de Informacion",
+    "nombre": "Lic en Sist de Inf",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+}
+{
+  "identity": 44,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Analisis Funcional"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+}
+1
+{
+  "identity": 64,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Licenciado en Sistemas de Informacion",
+    "nombre": "Lic en Sist de Inf",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+}
+{
+  "identity": 45,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Gestion de proyectos"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+}
+1
+{
+  "identity": 64,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Licenciado en Sistemas de Informacion",
+    "nombre": "Lic en Sist de Inf",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+}
+{
+  "identity": 50,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "C++"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+}
+1
+{
+  "identity": 64,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Licenciado en Sistemas de Informacion",
+    "nombre": "Lic en Sist de Inf",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+}
+{
+  "identity": 51,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "SQL"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+}
+1
+{
+  "identity": 64,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Licenciado en Sistemas de Informacion",
+    "nombre": "Lic en Sist de Inf",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:64"
+}
+{
+  "identity": 52,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Evaluacion de proveedores"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+}
+1
+{
+  "identity": 65,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Abogado",
+    "nombre": "Derecho",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+}
+{
+  "identity": 46,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Revision y elaboracion de contratos"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+}
+2
+{
+  "identity": 65,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Abogado",
+    "nombre": "Derecho",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+}
+{
+  "identity": 47,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Creacion de sociedades"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:47"
+}
+2
+{
+  "identity": 65,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Abogado",
+    "nombre": "Derecho",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+}
+{
+  "identity": 48,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Contestacion de demandas"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:48"
+}
+2
+{
+  "identity": 65,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Abogado",
+    "nombre": "Derecho",
+    "nivel": "Universitario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:65"
+}
+{
+  "identity": 49,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Gestion"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:49"
+}
+2
+{
+  "identity": 67,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Master en Business Administration",
+    "nombre": "MBA",
+    "nivel": "Postgrado"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+}
+{
+  "identity": 43,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Java"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:43"
+}
+2
+{
+  "identity": 67,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Master en Business Administration",
+    "nombre": "MBA",
+    "nivel": "Postgrado"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+}
+{
+  "identity": 44,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Analisis Funcional"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:44"
+}
+2
+{
+  "identity": 67,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Master en Business Administration",
+    "nombre": "MBA",
+    "nivel": "Postgrado"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+}
+{
+  "identity": 45,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Gestion de proyectos"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:45"
+}
+2
+{
+  "identity": 67,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Master en Business Administration",
+    "nombre": "MBA",
+    "nivel": "Postgrado"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+}
+{
+  "identity": 46,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Revision y elaboracion de contratos"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:46"
+}
+2
+{
+  "identity": 67,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Master en Business Administration",
+    "nombre": "MBA",
+    "nivel": "Postgrado"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+}
+{
+  "identity": 52,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Evaluacion de proveedores"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:52"
+}
+2
+{
+  "identity": 67,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Master en Business Administration",
+    "nombre": "MBA",
+    "nivel": "Postgrado"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:67"
+}
+{
+  "identity": 59,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "Gestion de recursos"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:59"
+}
+2
+{
+  "identity": 68,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Tecnico en Programacion",
+    "nombre": "Tec. En Programacion",
+    "nivel": "Terciario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68"
+}
+{
+  "identity": 50,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "C++"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:50"
+}
+1
+{
+  "identity": 68,
+  "labels": [
+    "Carrera"
+  ],
+  "properties": {
+    "titulo": "Tecnico en Programacion",
+    "nombre": "Tec. En Programacion",
+    "nivel": "Terciario"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:68"
+}
+{
+  "identity": 51,
+  "labels": [
+    "Conocimiento"
+  ],
+  "properties": {
+    "nombre": "SQL"
+  },
+  "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:51"
+}
+1

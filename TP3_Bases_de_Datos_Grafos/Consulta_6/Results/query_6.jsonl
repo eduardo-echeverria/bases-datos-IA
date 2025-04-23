@@ -1,0 +1,140 @@
+{
+    "identity": 1,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "DÌaz",
+      "fechanac": "10/12/1978",
+      "nombre": "AnalÌa",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:1"
+  }
+  {
+    "identity": 2,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:2"
+  }
+  {
+    "identity": 5,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:5"
+  }
+  {
+    "identity": 7,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonz·lez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "EspaÒa"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:7"
+  }
+  {
+    "identity": 9,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "VerÛnica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:9"
+  }
+  {
+    "identity": 22,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Diaz",
+      "fechanac": "10/12/1978",
+      "nombre": "Analia",
+      "email": "adiaz@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:22"
+  }
+  {
+    "identity": 23,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Dominguez",
+      "fechanac": "31/10/1990",
+      "nombre": "Mariana",
+      "email": "mariana@yahoo.com",
+      "pais": "Chile"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:23"
+  }
+  {
+    "identity": 26,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Ferreira",
+      "fechanac": "07/04/1972",
+      "nombre": "Natalia",
+      "email": "nf@hotmail.com",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:26"
+  }
+  {
+    "identity": 28,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Gonzalez",
+      "fechanac": "09/11/1974",
+      "nombre": "Bibiana",
+      "email": "bibiana@live.com.ar",
+      "pais": "España"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:28"
+  }
+  {
+    "identity": 30,
+    "labels": [
+      "Persona"
+    ],
+    "properties": {
+      "apellido": "Mendez",
+      "fechanac": "28/02/1968",
+      "nombre": "Veronica",
+      "email": "veromendi@yahoo.com.ar",
+      "pais": "Argentina"
+    },
+    "elementId": "4:5a1144c2-4665-46f3-881d-0f0be8cd1ae6:30"
+  }
